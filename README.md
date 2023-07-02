@@ -1,6 +1,7 @@
-### Hi there 👋
+<center>### Hi there 👋</center>
 
-My Projects
+# My name is Lennard and I am a software engineer with a passion for AI!
+<center>My Projects</center>
 |  Computer Vision |  NLP |
 |---|---|
 |[Visual emotion detector](https://github.com/L-Heidrich/Visual_emotion_detection) <br> A GCP hosted CNN, trained to recognize a persons mood based on their face expression. The model can be called via the cloudrun api.| [NLP and transformers](https://github.com/L-Heidrich/NLP_and_transformers) <br> Repository I use for studying nlp, more specifically transformers. It contains a script for using Bert Attention as a search function. |
