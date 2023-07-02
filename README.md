@@ -3,7 +3,7 @@
 My Projects
 |  Computer Vision |  NLP |
 |---|---|
-|[Visual emotion detector](https://github.com/L-Heidrich/Visual_emotion_detection) | [Repository I use for studying nlp, more specifically transformers](https://github.com/L-Heidrich/NLP_and_transformers) <br>A GCP hosted CNN trained recognize a persons mood based on their face expression.|
+|[Visual emotion detector](https://github.com/L-Heidrich/Visual_emotion_detection)  <br>A GCP hosted CNN trained recognize a persons mood based on their face expression.| [Repository I use for studying nlp, more specifically transformers](https://github.com/L-Heidrich/NLP_and_transformers)|
 |   |   |
 <!--
 **L-Heidrich/L-Heidrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
