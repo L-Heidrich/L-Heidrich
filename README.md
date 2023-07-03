@@ -2,7 +2,7 @@
 
 My name is Lennard and I am a software engineer with a passion for AI! 🚀
 
-🔭 I’m currently working on ... <br>
+- 🔭 I’m currently working on ... <br>
 Finetuning LLMs to my own data <br>
   
 - 🌱 I’m currently learning ... <br>
