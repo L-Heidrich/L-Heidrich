@@ -2,6 +2,12 @@
 
 My name is Lennard and I am a software engineer with a passion for AI! 🚀
 
+🔭 I’m currently working on ... <br>
+Finetuning LLMs to my own data <br>
+  
+- 🌱 I’m currently learning ... <br>
+about transformer models <br>
+
 ## My Projects 📚
 
 | Computer Vision 👁️‍🗨️ | NLP 🗣️ |
@@ -13,18 +19,14 @@ My name is Lennard and I am a software engineer with a passion for AI! 🚀
 
 In my thesis, I have explored how deep neural networks can be fooled in the task of image classification. The repository contains scripts and examples demonstrating how to attack a model trained on MNIST, as well as my thesis which explains how adversarial examples work. 
 
+## 
+Social: <br>
+[🔗 LinkedIn](https://www.linkedin.com/in/your-profile-url)
 
 <!--
 **L-Heidrich/L-Heidrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
