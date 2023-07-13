@@ -21,7 +21,7 @@ In my thesis, I have explored how deep neural networks can be fooled in the task
 
 ## 
 Social: <br>
-[🔗 LinkedIn](https://www.linkedin.com/in/your-profile-url)
+[🔗 LinkedIn](https://www.linkedin.com/in/lennard-heidrich/)
 
 <!--
 **L-Heidrich/L-Heidrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
