@@ -12,7 +12,7 @@ about transformer models <br>
 
 | Computer Vision 👁️‍🗨️ | NLP 🗣️ |
 |---|---|
-| [Visual Emotion Detector](https://github.com/L-Heidrich/Visual_emotion_detection)  <br> A GCP hosted CNN trained to recognize a person's mood based on their facial expression. The model can be called via the Cloud Run API. | [NLP and Transformers](https://github.com/L-Heidrich/NLP_and_transformers)  <br> This repository is dedicated to studying NLP, specifically transformers. |
+| [Visual Emotion Detector](https://github.com/L-Heidrich/Visual_emotion_detection)  <br> A GCP hosted CNN trained to recognize a person's mood based on their facial expression. The model can be called via the Cloud Run API. | [nlp-playground](https://github.com/L-Heidrich/nlp-playground)  <br> This repository is dedicated to my nlp pet projects |
 | [Landscape Classification](https://github.com/L-Heidrich/Pytorch-landscape-classification)  <br> A ResNet model trained to identify landscapes. The model is integrated into a simple website with a Django backend. |
 
 ## My Bachelor's Thesis: Adversarial Examples - Attacks, Defences, and Implementations 🎓
