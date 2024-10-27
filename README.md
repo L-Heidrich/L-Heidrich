@@ -17,7 +17,7 @@ about transformer models <br>
 
 ## My Bachelor's Thesis: Adversarial Examples - Attacks, Defences, and Implementations 🎓
 
-In my thesis, I have explored how deep neural networks can be fooled in the task of image classification. The repository contains scripts and examples demonstrating how to attack a model trained on MNIST, as well as my thesis which explains how adversarial examples work. 
+In my thesis, I have explored how deep neural networks can be fooled in the task of image classification. The repository contains scripts and examples demonstrating how to attack a model trained on MNIST, as well as my thesis which explains how adversarial examples work. [Link to thesis repository](https://github.com/L-Heidrich/Adversarial-Examples-MNIST)
 
 ## 
 Social: <br>
